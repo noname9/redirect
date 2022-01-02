@@ -1,5 +1,5 @@
 {
-  "name": "artjoker/redirect",
+  "name": "noname9/redirect",
   "description": "The package that provide an easy way to make redirect from old to new urls.",
   "type": "library",
   "license": "MIT",
@@ -14,11 +14,11 @@
     }
   ],
   "require": {
-    "php": "^7.1.3",
-    "laravelcollective/html": "^5.8"
+    "php": ">=7.2",
+    "laravelcollective/html": ">=6.0"
   },
   "require-dev": {
-    "phpunit/phpunit": "^8.3@dev"
+    "phpunit/phpunit": ">=9.0"
   },
   "autoload": {
     "psr-4": {
